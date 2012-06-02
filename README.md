@@ -3,16 +3,50 @@ iPhoneBigNerdRanch
 
 Apps built from the BigNerdRanch book
 
-List of apps:
+Scratch apps included.
 
-AmaZone                 Homepwner               PinchMe                 TouchExplorer
-AppSettings             HomepwnerSections       Polynomials             TouchTracker
-Ball                    HypnoTime               QuartzFun               TypingTutor
-CarLot                  Hypnosister             QuizInfo                View Switcher
-CocoaOSXCallenge5       ImageFun                RaiseMan                Whereami
-CocoaOSXChallenge18     KVCFun                  RaiseMan2               Wherewasi
-CocoaOSXChallenge6      MediaPlayer             RandomApp               ZIPInspector
-Core Data Persistence   Nav                     RandomPossessions       iPing
-Departments             Nayberz                 SpeakLine               lottery
-GLFun                   Persistence             Swipes
-Gliss                   Pickers                 ToDoList
+AmaZone
+AppSettings
+Ball
+CarLot
+CocoaOSXCallenge5
+CocoaOSXChallenge18
+CocoaOSXChallenge6
+Core Data Persistence
+Departments
+GLFun
+Gliss
+HeavyRotation
+Homepwner
+HomepwnerSections
+HypnoTime
+Hypnosister
+ImageFun
+KVCFun
+MediaPlayer
+Nav
+Nayberz
+Persistence
+Pickers
+Pickers-1.moved-aside
+PinchMe
+Polynomials
+QuartzFun
+QuizInfo
+RaiseMan
+RaiseMan2
+RandomApp
+RandomPossessions
+SpeakLine
+Swipes
+ToDoList
+TopSongs
+TouchExplorer
+TouchTracker
+TypingTutor
+View Switcher
+Whereami
+Wherewasi
+ZIPInspector
+iPing
+lottery

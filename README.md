@@ -5,10 +5,10 @@ Apps built from the BigNerdRanch book
 
 Scratch apps included.
 
-AmaZone
-AppSettings
-Ball
-CarLot
+AmaZone  
+AppSettings  
+Ball  
+CarLot  
 CocoaOSXCallenge5
 CocoaOSXChallenge18
 CocoaOSXChallenge6

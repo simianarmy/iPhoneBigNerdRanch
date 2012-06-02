@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CocoaOSXChallenge6' target in the 'CocoaOSXChallenge6' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
